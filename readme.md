@@ -30,3 +30,4 @@ mvn spring-boot:run
 mvn spring-boot:run
 ```
 
+https://medium.com/@htyesilyurt/saga-distributed-transaction-pattern-spring-boot-embedded-debezium-apache-kafka-8d111de0b444
